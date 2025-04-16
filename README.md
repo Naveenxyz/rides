@@ -37,8 +37,8 @@ BangaRide is a web application for motorcycle enthusiasts in Bangalore to discov
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/bangaride.git
-cd bangaride
+git clone https://github.com/Naveenxyz/rides
+cd rides
 ```
 
 2. Install dependencies for both frontend and backend
